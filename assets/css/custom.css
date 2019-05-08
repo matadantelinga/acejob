@@ -7666,5 +7666,6 @@ h1 {
   .btn-gray:hover {
     background-color: #adadad; }
 
-.col-12 {
-  width: 100%; }
+@media (max-width: 767px) {
+  .form-wrapper {
+    width: 85%; } }
