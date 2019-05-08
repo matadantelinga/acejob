@@ -1,0 +1,16 @@
+{
+  "name": "acejob",
+  "version": "1.0.0",
+  "description": "style revision by indra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch sass/style.scss css/custom.css"
+  },
+  "author": "indra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "node-sass": "^4.11.0"
+  }
+}
